@@ -137,3 +137,4 @@ Desktop.ini
 /.apt_generated/
 pom.xml.versionsBackup
 run-scripts/calculator.jar
+.idea/vcs.xml
